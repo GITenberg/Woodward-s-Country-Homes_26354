@@ -1,0 +1,32 @@
+_repo: Woodward-s-Country-Homes_26354
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Woodward, F. W. (Francis W.)
+    alias: Woodward, Francis W.
+    gutenberg_agent_id: '31286'
+    url: http://www.gutenberg.org/2009/agents/31286
+  - agent_name: Woodward, George E. (George Evertson)
+    alias: Woodward, George Evertson
+    birthdate: 1829
+    deathdate: 1905
+    gutenberg_agent_id: '31285'
+    url: http://www.gutenberg.org/2009/agents/31285
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture, Domestic -- Designs and plans'
+- !lcsh 'Country homes'
+title: Woodward's Country Homes
+url: http://www.gutenberg.org/ebooks/26354
